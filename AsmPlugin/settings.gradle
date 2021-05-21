@@ -1,3 +1,0 @@
-include ':SimplePlugin'
-include ':BasePlugin'
-rootProject.name = "AsmPlugin"
